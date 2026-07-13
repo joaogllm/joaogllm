@@ -12,27 +12,19 @@
 
 # 👋 Sobre mim
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" alt="Sieghart" width="260px" src="https://static.wikia.nocookie.net/grandchase/images/2/22/Awakening_Sieghart.png/revision/latest?cb=20250212085106">
 
 Sou um desenvolvedor apaixonado por tecnologia. Desde cedo despertei interesse por computadores, o que me levou a explorar desde manutenção e infraestrutura até o desenvolvimento de aplicações web.
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente continuo me aperfeiçoando no ecossistema Front-end, com foco em **React**, **TypeScript** e boas práticas de desenvolvimento. Gosto de estudar constantemente e acredito que a evolução contínua faz parte da carreira de qualquer desenvolvedor.
 
 Além da programação, no meu tempo livre estou sempre tentando ler algum livro ou mangá, gosto de assistir animes, séries, filmes e estou sempre jogando alguma coisa.
+
+<br>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
 </p>
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://static.wikia.nocookie.net/grandchase/images/2/22/Awakening_Sieghart.png/revision/latest?cb=20250212085106" width="280">
-
-</td>
-</table>
 
 ---
 
