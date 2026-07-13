@@ -26,20 +26,38 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
 </p>
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
-<img src="https://skillicons.dev/icons?i=react,ts"/>
+<table>
+<tr>
 
-- React avançado
-- TypeScript
-- Redux Toolkit
-- Clean Code
-- Performance Web
-- Arquitetura Front-end
-- APIs REST
-- UI/UX
-- Estruturas de Dados
-- Algoritmos
+<td width="70%" valign="top">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,firebase" />
+</p>
+
+- ⚛️ React Avançado
+- 📘 TypeScript
+- 🗃️ Redux Toolkit
+- 🧹 Clean Code
+- 🚀 Performance Web
+- 🏗️ Arquitetura Front-end
+- 🔗 APIs REST
+- 🎨 UI/UX
+- 📚 Estruturas de Dados
+- 🧠 Algoritmos
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="http://www.rosprites.simn.de/crscdb/einstxii/2.gif" width="180"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -88,11 +106,7 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
 
 </p>
 
----
-
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=joaogllm&color=blue)
 
 ### Obrigado pela visita!
 
