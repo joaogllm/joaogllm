@@ -86,7 +86,7 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joaogllm&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaogllm&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -95,7 +95,7 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 # 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaogllm&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.netlify.app/?username=joaogllm&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
