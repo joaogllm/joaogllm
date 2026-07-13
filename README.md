@@ -43,22 +43,13 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
 
 ---
 
-# 📈 Estatísticas
+# GitHub Stats 🔥
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaogllm&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaogllm&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogllm&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaogllm&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
