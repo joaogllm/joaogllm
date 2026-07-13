@@ -12,7 +12,7 @@
 
 # 👋 Sobre mim
 
-<img align="right" alt="Sieghart" width="360px" src="https://static.wikia.nocookie.net/grandchase/images/2/22/Awakening_Sieghart.png/revision/latest?cb=20250212085106">
+<img align="right" alt="Sieghart" width="400px" src="https://static.wikia.nocookie.net/grandchase/images/2/22/Awakening_Sieghart.png/revision/latest?cb=20250212085106">
 
 Sou um desenvolvedor apaixonado por tecnologia. Desde cedo despertei interesse por computadores, o que me levou a explorar desde manutenção e infraestrutura até o desenvolvimento de aplicações web.
 
@@ -32,7 +32,7 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
   <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,firebase" />
 </p>
 
-<img align="right" alt="Sieghart" width="260px" src="https://static.wikia.nocookie.net/grandchase/images/8/85/SieghartGladiatorST.png/revision/latest?cb=20100530022511&path-prefix=pt-br">
+<img align="right" alt="Sieghart" width="360px" src="https://static.wikia.nocookie.net/grandchase/images/8/85/SieghartGladiatorST.png/revision/latest?cb=20100530022511&path-prefix=pt-br">
 
 - ⚛️ React Avançado
 - 📘 TypeScript
