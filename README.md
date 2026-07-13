@@ -26,8 +26,6 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
 </p>
 
----
-
 ## Atualmente estudando
 
 <img src="https://skillicons.dev/icons?i=react,ts"/>
