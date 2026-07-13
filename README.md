@@ -4,10 +4,6 @@
 
 ### Front-end Developer | React • TypeScript • JavaScript
 
-<p>
-Apaixonado por transformar ideias em interfaces modernas, responsivas e intuitivas.
-</p>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Front-end+Developer;React+%7C+TypeScript+%7C+JavaScript;Always+Learning+Something+New" />
 
 </div>
@@ -16,19 +12,31 @@ Apaixonado por transformar ideias em interfaces modernas, responsivas e intuitiv
 
 # 👋 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente continuo me especializando em desenvolvimento Front-end.
+<table>
+<tr>
+<td width="65%" valign="top">
 
----
+Sou um desenvolvedor apaixonado por tecnologia. Desde cedo despertei interesse por computadores, o que me levou a explorar desde manutenção e infraestrutura até o desenvolvimento de aplicações web.
 
-# 🚀 Tecnologias
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente continuo me aperfeiçoando no ecossistema Front-end, com foco em **React**, **TypeScript** e boas práticas de desenvolvimento. Gosto de estudar constantemente e acredito que a evolução contínua faz parte da carreira de qualquer desenvolvedor.
 
-## Front-end
+Além da programação, no meu tempo livre estou sempre tentando ler algum livro ou mangá, gosto de assistir animes, séries, filmes e estou sempre jogando alguma coisa.
+
+<br><br>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://static.wikia.nocookie.net/grandchase/images/2/22/Awakening_Sieghart.png/revision/latest?cb=20250212085106" width="280">
+
+</td>
+</tr>
+</table>
 
 ---
 
