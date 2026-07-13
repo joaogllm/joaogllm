@@ -32,7 +32,7 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
   <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,firebase" />
 </p>
 
-<img align="right" alt="Ragnarok" width="360px" src="http://www.rosprites.simn.de/crscdb/einstxii/2.gif">
+<img align="right" alt="Ragnarok" width="360px" src="https://static.wikia.nocookie.net/grandchase/images/5/54/Sieg-1.png/revision/latest?cb=20180926143637">
 
 - ⚛️ React Avançado
 - 📘 TypeScript
@@ -44,7 +44,6 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
 - 🎨 UI/UX
 - 📚 Estruturas de Dados
 - 🧠 Algoritmos
----
 
 # GitHub Stats 🔥
 
