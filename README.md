@@ -92,10 +92,12 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 
 ---
 
-# 🏆 Conquistas
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy@master/src/?username=joaogllm"/>
+  <a href="https://github.com/joaogllm">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaogllm&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  </a>
 </p>
 
 ---
