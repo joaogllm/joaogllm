@@ -75,13 +75,10 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 
 # 📈 Estatísticas
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogllm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogllm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogllm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogllm&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -97,11 +94,9 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 
 # 🏆 Conquistas
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaogllm&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaogllm&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
