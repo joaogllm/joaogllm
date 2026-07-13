@@ -16,21 +16,7 @@ Apaixonado por transformar ideias em interfaces modernas, responsivas e intuitiv
 
 # 👋 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente continuo me especializando em desenvolvimento Front-end, estudando diariamente tecnologias modernas e boas práticas de desenvolvimento.
-
-Além da programação, atualmente curso **Fisioterapia**, experiência que fortaleceu habilidades como comunicação, trabalho em equipe, resolução de problemas e pensamento analítico.
-
-Tenho experiência anterior com:
-
-- 💻 Suporte Técnico
-- 🖥️ Infraestrutura
-- 🌐 Redes
-- ⚙️ SAP HANA
-- 📊 SAP Lumira
-- 📈 SAP BOE
-- 🎫 ITSM
-
-Meu objetivo é construir aplicações performáticas, acessíveis e com excelente experiência para o usuário.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente continuo me especializando em desenvolvimento Front-end.
 
 ---
 
@@ -41,16 +27,6 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 <p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
-
-</p>
-
----
-
-## Ferramentas
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,webpack,firebase,nodejs,npm"/>
 
 </p>
 
@@ -99,36 +75,6 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaogllm&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
-
----
-
-# 📚 Aprendizado Contínuo
-
-✔ Responsive Web Design — freeCodeCamp
-
-✔ JavaScript
-
-✔ React
-
-✔ TypeScript
-
-✔ APIs REST
-
-✔ Firebase
-
-✔ Git & GitHub
-
----
-
-# 🎯 Objetivos para 2026
-
-- ✅ Conseguir minha primeira oportunidade como Desenvolvedor Front-end
-- 📱 Publicar novos projetos completos
-- ⚛️ Aprofundar React
-- 📘 Dominar TypeScript
-- 🚀 Aprender Next.js
-- 🧪 Aprender Testes (Jest/Vitest)
-- ☁️ Conhecer AWS
 
 ---
 
