@@ -76,8 +76,8 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 # 📈 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogllm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogllm&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaogllm&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogllm&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
