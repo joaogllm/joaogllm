@@ -12,7 +12,7 @@
 
 # 👋 Sobre mim
 
-<img align="right" alt="Sieghart" width="260px" src="https://static.wikia.nocookie.net/grandchase/images/2/22/Awakening_Sieghart.png/revision/latest?cb=20250212085106">
+<img align="right" alt="Sieghart" width="360px" src="https://static.wikia.nocookie.net/grandchase/images/2/22/Awakening_Sieghart.png/revision/latest?cb=20250212085106">
 
 Sou um desenvolvedor apaixonado por tecnologia. Desde cedo despertei interesse por computadores, o que me levou a explorar desde manutenção e infraestrutura até o desenvolvimento de aplicações web.
 
