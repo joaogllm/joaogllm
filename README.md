@@ -95,7 +95,7 @@ Meu objetivo é construir aplicações performáticas, acessíveis e com excelen
 # 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.netlify.app/?username=joaogllm&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy@master/src/?username=joaogllm"/>
 </p>
 
 ---
