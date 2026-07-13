@@ -28,14 +28,11 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
 
 ## 📚 Atualmente estudando
 
-<table>
-<tr>
-
-<td width="70%" valign="top">
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,firebase" />
 </p>
+
+<img align="right" alt="Ragnarok" width="360px" src="http://www.rosprites.simn.de/crscdb/einstxii/2.gif">
 
 - ⚛️ React Avançado
 - 📘 TypeScript
@@ -47,18 +44,6 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
 - 🎨 UI/UX
 - 📚 Estruturas de Dados
 - 🧠 Algoritmos
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="http://www.rosprites.simn.de/crscdb/einstxii/2.gif" width="180"/>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # GitHub Stats 🔥
