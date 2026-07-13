@@ -1,16 +1,216 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**joaogllm/joaogllm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# João Martins 👨‍💻
 
-Here are some ideas to get you started:
+### Front-end Developer | React • TypeScript • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Apaixonado por transformar ideias em interfaces modernas, responsivas e intuitivas.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Front-end+Developer;React+%7C+TypeScript+%7C+JavaScript;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+# 👋 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente continuo me especializando em desenvolvimento Front-end, estudando diariamente tecnologias modernas e boas práticas de desenvolvimento.
+
+Além da programação, atualmente curso **Fisioterapia**, experiência que fortaleceu habilidades como comunicação, trabalho em equipe, resolução de problemas e pensamento analítico.
+
+Tenho experiência anterior com:
+
+- 💻 Suporte Técnico
+- 🖥️ Infraestrutura
+- 🌐 Redes
+- ⚙️ SAP HANA
+- 📊 SAP Lumira
+- 📈 SAP BOE
+- 🎫 ITSM
+
+Meu objetivo é construir aplicações performáticas, acessíveis e com excelente experiência para o usuário.
+
+---
+
+# 🚀 Tecnologias
+
+## Front-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
+
+</p>
+
+---
+
+## Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,webpack,firebase,nodejs,npm"/>
+
+</p>
+
+---
+
+## Atualmente estudando
+
+<img src="https://skillicons.dev/icons?i=react,ts"/>
+
+- React avançado
+- TypeScript
+- Redux Toolkit
+- Clean Code
+- Performance Web
+- Arquitetura Front-end
+- APIs REST
+- UI/UX
+- Estruturas de Dados
+- Algoritmos
+
+---
+
+# 💼 Projetos
+
+## 🎬 ReactMDB
+
+Aplicação para busca de filmes utilizando API.
+
+**Tecnologias**
+
+- React
+- TypeScript
+- API REST
+- CSS
+
+---
+
+## 📷 Mediagram
+
+Rede social construída utilizando Firebase.
+
+### Recursos
+
+- Login
+- Cadastro
+- Upload de imagens
+- Comentários
+- Curtidas
+- Perfil de usuário
+
+---
+
+## ✅ Todo React TS
+
+Lista de tarefas moderna utilizando React + TypeScript.
+
+---
+
+## 🎮 Secret Word
+
+Jogo desenvolvido em React para praticar gerenciamento de estados.
+
+---
+
+## 🎯 Frontend Mentor
+
+Coleção de desafios desenvolvidos para aperfeiçoar:
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsividade
+- Acessibilidade
+
+---
+
+# 📈 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogllm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogllm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaogllm&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joaogllm&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📚 Aprendizado Contínuo
+
+✔ Responsive Web Design — freeCodeCamp
+
+✔ JavaScript
+
+✔ React
+
+✔ TypeScript
+
+✔ APIs REST
+
+✔ Firebase
+
+✔ Git & GitHub
+
+---
+
+# 🎯 Objetivos para 2026
+
+- ✅ Conseguir minha primeira oportunidade como Desenvolvedor Front-end
+- 📱 Publicar novos projetos completos
+- ⚛️ Aprofundar React
+- 📘 Dominar TypeScript
+- 🚀 Aprender Next.js
+- 🧪 Aprender Testes (Jest/Vitest)
+- ☁️ Conhecer AWS
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="https://linkedin.com/in/joaogllm">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=joaogllm&color=blue)
+
+### Obrigado pela visita!
+
+⭐ Se algum projeto foi útil para você, considere deixar uma estrela.
+
+</div>
