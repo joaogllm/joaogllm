@@ -32,7 +32,7 @@ Além da programação, no meu tempo livre estou sempre tentando ler algum livro
   <img src="https://skillicons.dev/icons?i=react,ts,redux,vite,firebase" />
 </p>
 
-<img align="right" alt="Sieghart" width="260px" src="https://static.wikia.nocookie.net/grandchase/images/5/54/Sieg-1.png/revision/latest?cb=20180926143637">
+<img align="right" alt="Sieghart" width="260px" src="https://static.wikia.nocookie.net/grandchase/images/8/85/SieghartGladiatorST.png/revision/latest?cb=20100530022511&path-prefix=pt-br">
 
 - ⚛️ React Avançado
 - 📘 TypeScript
